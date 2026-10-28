@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+# Run logs
+output/logs/
+# Raw downloads and intermediate files of the data preparation
+data_prep/*/raw/
+data_prep/paris/*.csv
+data_prep/london/*.csv
